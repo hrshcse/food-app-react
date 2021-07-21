@@ -1,0 +1,17 @@
+.header-nav
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 25px;
+    background-color: rgb(63, 105, 127);
+    align-items: baseline;
+}
+.nav-header
+{
+    color: azure;
+    font-weight: bolder;    
+}
+/* .button-cart
+{
+    padding: 0% !important;
+} */
